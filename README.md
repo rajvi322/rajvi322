@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Rajvi 👋
 
-<!--
-**rajvi322/rajvi322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer passionate about building modern, responsive, and user-focused web applications<br>
+✨ Focused on creating clean UI experiences, scalable applications, and interactive digital products<br>
+🚀 Exploring modern frontend technologies, full-stack development, and creative problem-solving<br>
+🌱 Always learning, building, and improving one project at a time
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 💡 Passionate about frontend development and modern web experiences
+* ⚙️ Working with React, Next.js, Node.js, Express.js, and MongoDB
+* 🎯 Interested in UI/UX, responsive design, and performance optimization
+* 📚 Continuously learning new technologies and improving development skills
+* 🌍 Exploring opportunities for higher studies and growth in tech
+* ✨ Love turning ideas into clean and functional products
+
+---
+
+## 📈 Currently Working On
+
+* 🚀 Building modern full-stack web applications
+* 🎨 Improving UI/UX and responsive design skills
+* ⚡ Exploring performance optimization and scalable architecture
+* 🌱 Learning advanced Next.js and backend concepts
+
+---
+
+## 🌟 Goals
+
+* Build impactful and creative digital experiences
+* Contribute to meaningful real-world projects
+* Grow as a full-stack developer and UI-focused engineer
+* Keep learning, experimenting, and evolving in tech
+
+---
+
+✨ *“Turning ideas into interactive experiences through code and creativity.”*
